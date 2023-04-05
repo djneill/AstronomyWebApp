@@ -1,6 +1,6 @@
 <img align="center" src="images/readspace.png" alt="website homepage" />
 
-<h1 align="center"Astronomy WebApp</>
+<h1 align="center"Astronomy WebApp</h1>
 Star gazing web app for the Temple Astronomy Society using NASA APOD API to retrieve the picture or video of the day.
 
 Take a look at it here 👉 https://templeastronomysociety.netlify.app/
