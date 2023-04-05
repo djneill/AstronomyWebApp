@@ -1,9 +1,9 @@
 <img align="center" src="images/readspace.png" alt="website homepage" />
 
 <h1 align="center">Astronomy WebApp</h1>
-Star gazing web app for the Temple Astronomy Society using NASA APOD API to retrieve the picture or video of the day.
+<p>Star gazing web app for the Temple Astronomy Society using NASA APOD API to retrieve the picture or video of the day.
 
-Take a look at it here 👉 https://templeastronomysociety.netlify.app/
+Take a look at it here 👉 https://templeastronomysociety.netlify.app/</p>
 
 <h2 align="center">Tech Used</h2> 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"
