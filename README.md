@@ -1,9 +1,10 @@
 <img align="center" src="images/readspace.png" alt="website homepage" />
 
 <h1 align="center">Astronomy WebApp</h1>
-<p>Star gazing web app for the Temple Astronomy Society using NASA APOD API to retrieve the picture or video of the day.</p>
 
-<p>Take a look at it here 👉 https://templeastronomysociety.netlify.app/</p>
+Star gazing web app for the Temple Astronomy Society using NASA APOD API to retrieve the picture or video of the day.
+
+Take a look at it here 👉 https://templeastronomysociety.netlify.app/
 
 <h2 align="center">Tech Used</h2> 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -16,9 +17,7 @@
                 alt="html5" width="40" height="40" /> </a> <a
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a>
+                alt="javascript" width="40" height="40" /> </a> 
 </p>
 
 <h2 align="center">Optimizations</h2>
