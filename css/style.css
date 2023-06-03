@@ -61,6 +61,7 @@ iframe {
   grid-gap: 20px;
   justify-items: center;
   align-items: center;
+  margin: 2rem;
 }
 
 hr {
@@ -258,6 +259,11 @@ hr {
 		ol.default li {
 			padding-left: 0.25em;
 		}
+
+    .scrollable {
+      overflow: auto;
+      max-height: 400px;
+    }
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
@@ -299,6 +305,7 @@ hr {
     grid-gap: 20px;
     width: 100%;
     height: auto;
+    border-radius: 5px;
   }
   img {
     display: flex;
@@ -329,4 +336,3 @@ hr {
 .github {
   color: #4078c0;
 }
-  
