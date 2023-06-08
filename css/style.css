@@ -12,7 +12,7 @@
 /*******************************************/
 
 body {
-  background-image: url(../images/WallpaperDog-10878478.jpg);
+  background-image: url('../images/WallpaperDog-10878478.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,6 +21,7 @@ body {
   background-repeat: no-repeat;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #ffffff;
+  min-height: 100vh;
 }
 
 header, h2, h3, p {
@@ -306,6 +307,7 @@ hr {
     width: 100%;
     height: auto;
     border-radius: 5px;
+    min-height: 100vh;
   }
   img {
     display: flex;
