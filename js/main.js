@@ -84,7 +84,7 @@ function getFetch() {
       copy.innerText = data.copyright
     })
     .catch(err => {
-      document.getElementById('title').innerHTML = 'The NASA picture of the day server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state. Please try again later.'
+      document.getElementById('title').innerText = 'The NASA picture of the day server is currently unavailable (because it is overloaded or down for maintenance). Generally, this is a temporary state. Please try again later.'
       console.log(`error ${err}`)
     })
 }
