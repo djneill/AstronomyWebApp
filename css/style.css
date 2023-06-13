@@ -42,8 +42,8 @@ img{
   display: block;
   text-align: center;
   margin: 0 auto;
-  width: 500px;
-  height: 500px;
+  width: auto;
+  height: 400px;
   margin: 15px;
 }
 
@@ -52,7 +52,7 @@ iframe {
   align-items: center;
   margin: 0;
   width: 500px;
-  height: 500px;
+  height: 400px;
   margin: 20px;
 }
 
@@ -265,6 +265,9 @@ hr {
       overflow: auto;
       max-height: 400px;
     }
+    .contentDisplay {
+      max-height: 400px;
+    }
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
@@ -287,6 +290,7 @@ hr {
     grid-gap: 20px;
     width: 100%;
     height: auto;
+    margin: auto;
   }
   img {
     display: flex;
